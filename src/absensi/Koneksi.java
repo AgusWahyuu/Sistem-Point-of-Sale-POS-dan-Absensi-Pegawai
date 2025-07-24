@@ -17,7 +17,7 @@ public class Koneksi {
     public static Connection koneksiDB() throws SQLException {
         if (mysqlKonek == null) {
             try {
-                String DB = "jdbc:mysql://localhost/restoran_a2_fix";
+                String DB = "jdbc:mysql://localhost/restoran";
                 String user = "root";
                 String pass = "";
                 DriverManager.registerDriver(new com.mysql.jdbc.Driver());
