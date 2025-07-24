@@ -1,0 +1,32 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Executable installers
+*.exe
+
+# NetBeans specific
+/nbproject/private/
+/nbproject/ide-file-targets.xml
+/nbproject/Package-*.bash
+/nbproject/DatabaseDataSources.xml
+/build/
+/dist/
+/nbdist/
+.nb-gradle/
